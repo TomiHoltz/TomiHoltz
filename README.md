@@ -1,16 +1,15 @@
-### Hi there 👋
+#Hola 👋 Soy Tomas
 
-<!--
-**TomiHoltz/TomiHoltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador  de aplicaciones moviles**
+Estoy en constante formacion, aunque los lenguajes y tecnologias que mejor domino actualmente son estas:
 
-Here are some ideas to get you started:
+- Dart
+- Flutter
+- Firebase (Auth/Cloud/Storage)
+- Desarrollo Nativo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de platzi y hasta ahora llevo realizados 19 cursos de programacion y diseño. Pueden ver dichos certificados en mi [perfil](http://platzi.com/p/tomas-holtz "perfil")
+
+Tambien pueden ver mis certificados en desarrollo antivo en android en mi [LinkedIn](https://www.linkedin.com/in/tomas-holtz-28490620b/ "LinkedIn").
+
+Actualmente no estoy buscando trabajo. Pero estoy abierto a escuchar cualquier oferta laboral.
