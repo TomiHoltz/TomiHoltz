@@ -14,3 +14,7 @@ Soy estudiante de platzi y hasta ahora llevo realizados 19 cursos de programacio
 Tambien pueden ver mis certificados en desarrollo antivo en android en mi [LinkedIn](https://www.linkedin.com/in/tomas-holtz-28490620b/ "LinkedIn").
 
 Actualmente no estoy buscando trabajo. Pero estoy abierto a escuchar cualquier oferta laboral.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomasholtz)
