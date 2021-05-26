@@ -19,9 +19,9 @@ These are the frameworks, languages and technologies that I use the most:
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git & Github
 - <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"></code> Adobe Illustrator
 
-I am a student at Platzi. I have done 19 courses about development and UI & UX. You can see my certificates in my Platzi [profile](http://platzi.com/p/tomas-holtz "perfil")
+I am a student at Platzi. I have completed 19 courses about development and UI & UX. You can see my certificates in my Platzi [profile](http://platzi.com/p/tomas-holtz "perfil")
 
-You can also see my certificates in Android development in my LinkedIn.
+You can also see my certificates in Android development in LinkedIn.
 
 <br />
 
