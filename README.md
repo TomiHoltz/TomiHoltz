@@ -9,5 +9,3 @@
 <br /><br />
 
 **[Check my website](http://platzi.com/p/tomas-holtz "perfil")**
-
-tomasholtz.com
